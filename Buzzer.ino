@@ -10,8 +10,10 @@
  *   delay(490);
  *   // playing D4, for 250ms (0.25s)
  *   tone(TONE_PIN, 587, 250);
- *   delay(490);
+ *   delay(250);
  * }
+ * 
+ * Reference data - frequency of music notes: http://www.trapdnb.com/handig/notes.php
  */
 
 // Normal Disco / 普通的Disco
